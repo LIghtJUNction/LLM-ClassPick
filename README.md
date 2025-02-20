@@ -12,12 +12,9 @@
 
 ## 使用自然语言提出要求
 
-
 ![1740050967678](images/README/1740050967678.png)
 
-
-
-![1740050982802](images/README/1740050982802.png)
+![1740051264681](images/README/1740051264681.png)
 
 Ollama 模型：llama:8b --- (deepseek 暂不支持)
 
